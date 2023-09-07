@@ -1,4 +1,4 @@
-import javax.naming.Name;
+package ABCInsurance;
 
 public class DriverDetails {
 

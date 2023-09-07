@@ -1,3 +1,5 @@
+package ABCInsurance;
+
 public class Coverage {
 
     /*

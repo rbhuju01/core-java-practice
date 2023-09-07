@@ -1,6 +1,7 @@
 public class OnlineShopping {
 
         //State
+        /*
         Customer_Name;
         Customer_Address;
         Customer_Gender;
@@ -19,5 +20,6 @@ public class OnlineShopping {
         getTshirtSize();
         getClothesCount();
 
+         */
 
 }
