@@ -1,6 +1,6 @@
 public class ABCLibrary {
     //State
-    MembershipNumber;
+    /*MembershipNumber;
     Book_Author;
     Book_Genres;
     Book_Edition;
@@ -11,7 +11,7 @@ public class ABCLibrary {
     addBook();
     reserveBook();
     addToWaitList();
-    checkoutBook();
+    checkoutBook();*/
 
 
 
